@@ -5,7 +5,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@umerrashid1985" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@umerrashid1985" height="30" width="40" /></a>
-  <img align="right alt="coding"width="400"src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGc2cHg4amRkYXN6NjZoNGRia205bjVuMzc3Z3dreHVtbmc5bmFzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"(https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGc2cHg4amRkYXN6NjZoNGRia205bjVuMzc3Z3dreHVtbmc5bmFzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)
+  <img align="right alt="coding"width="300"src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGc2cHg4amRkYXN6NjZoNGRia205bjVuMzc3Z3dreHVtbmc5bmFzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"
 ">
 <a href="https://linkedin.com/in/umer rashid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umer rashid" height="30" width="40" /></a>
 <a href="https://instagram.com/its_umer.kun_private" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_umer.kun_private" height="30" width="40" /></a>
